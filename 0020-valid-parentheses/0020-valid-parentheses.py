@@ -1,15 +1,17 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        pairs = {"]": "[", "}": "{", ")": "("}
+        hash_map = {"]": "[", "}": "{", ")": "("}
         for char in s:
-            if char in pairs:
-                if not stack or stack[-1] != pairs[char]:
-                    return False
-                stack.pop()
-            
-            else:   
+            if char not in hash_map:
                 stack.append(char)
+            else:
+                if not stack:
+                        return False 
+                else:
+                    popped = stack.pop()
+                    if popped != hash_map[char]:
+                        return False
         return not stack
 
                 
