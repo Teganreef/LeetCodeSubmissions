@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Teganreef/LeetCodeSubmissions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Teganreef/LeetCodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Teganreef/LeetCodeSubmissions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Teganreef/LeetCodeSubmissions/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Teganreef/LeetCodeSubmissions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Teganreef/LeetCodeSubmissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Teganreef/LeetCodeSubmissions/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Teganreef/LeetCodeSubmissions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
